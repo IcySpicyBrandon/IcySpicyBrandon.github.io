@@ -4,7 +4,7 @@ const menu = [
     title: "Vada Pav",
     category: "Appetizers",
     price: `$3.99`,
-    img: "./images/item-8.jpeg",
+    img: "./images/item-40.jpg",
     desc: `Bun with potato filling, fried with chickpea flour and spices. `,
   },
   {
@@ -12,7 +12,7 @@ const menu = [
     title: "Vada Pav (2 Pcs)",
     category: "Appetizers",
     price: `$7.00`,
-    img: "./images/item-8.jpeg",
+    img: "./images/item-41.jpg",
     desc: `Bun with potato filling, fried with chickpea flour and spices. `,
   },
   {
@@ -20,7 +20,7 @@ const menu = [
     title: "Dabeli",
     category: "Appetizers",
     price: `$3.99`,
-    img: "./images/item-3.jpeg",
+    img: "./images/item-42.jpg",
     desc: `Bun with potato stuffing and peanuts topped with pomegranate and sev.`,
   },
   {
@@ -28,7 +28,7 @@ const menu = [
     title: "Dabeli (2 Pcs)",
     category: "Appetizers",
     price: `$7.00`,
-    img: "./images/item-4.jpeg",
+    img: "./images/item-42.jpg",
     desc: `Bun with potato stuffing and peanuts topped with pomegranate and sev. `,
   },
   {
@@ -36,7 +36,7 @@ const menu = [
     title: "Samosa",
     category: "Appetizers",
     price: `$2.99`,
-    img: "./images/item-5.jpeg",
+    img: "./images/item-59.jpg",
     desc: `All purpose flour pastry stuffed with potatoes, peas, and Indian spices. `,
   },
   {
@@ -44,7 +44,7 @@ const menu = [
     title: "Samosa Chat",
     category: "Appetizers",
     price: `$3.99`,
-    img: "./images/item-6.jpeg",
+    img: "./images/item-43.jpg",
     desc: `All-purpose flour pastry stuffed with potatoes, peas, and Indian spices with chutney.`,
   },
   {
@@ -52,7 +52,7 @@ const menu = [
     title: "Bun Samosa",
     category: "Appetizers",
     price: `$5.99`,
-    img: "./images/item-7.jpeg",
+    img: "./images/item-44.jpg",
     desc: `Samosa stuffed in bun with traditional chutney `,
   },
   {
@@ -60,7 +60,7 @@ const menu = [
     title: "Tikkha Ghughra",
     category: "Appetizers",
     price: `$4.99`,
-    img: "./images/item-8.jpeg",
+    img: "./images/item-45.jpg",
     desc: `All purpose flour pastry stuffed with potatoes, peas, and Indian spices with spicy chutney.`,
   },
   {
@@ -68,7 +68,7 @@ const menu = [
     title: "Pav Bhaji",
     category: "Appetizers",
     price: `$11.99`,
-    img: "./images/item-9.jpeg",
+    img: "./images/item-46.jpg",
     desc: `Thick vegetable curry served with soft bread rolls.`,
   },
   {
@@ -76,7 +76,7 @@ const menu = [
     title: "Chole Bhature",
     category: "Appetizers",
     price: `$14.99`,
-    img: "./images/item-10.jpeg",
+    img: "./images/item-47.jpg",
     desc: `Chickpea curry served with fried all purpose bread.`,
   },
   {
@@ -84,7 +84,7 @@ const menu = [
     title: "Veg Manchurian",
     category: "Appetizers",
     price: `$14.99`,
-    img: "./images/item-11.jpeg",
+    img: "./images/item-48.jpg",
     desc: `Finely chopped veggie balls, fried and cooked with sauces and spices.`,
   },
   {
@@ -92,7 +92,7 @@ const menu = [
     title: "Chili Paneer",
     category: "Appetizers",
     price: `$15.99`,
-    img: "./images/item-12.jpeg",
+    img: "./images/item-49.jpg",
     desc: `Cottage cheese cooked with bell pepper and onion with sauces and spices.`,
   },
   {
@@ -100,7 +100,7 @@ const menu = [
     title: "Chilli Chicken",
     category: "Appetizers",
     price: `$15.99`,
-    img: "./images/item-13.jpg",
+    img: "./images/item-50.jpg",
     desc: `Non-Vegetarian. Marinated chicken seasoned with spices and sauces. Cooked with bell pepper and onion.`,
   },
   {
@@ -108,7 +108,7 @@ const menu = [
     title: "Chicken Bites",
     category: "Appetizers",
     price: `$10.99`,
-    img: "./images/item-14.jpeg",
+    img: "./images/item-51.jpg",
     desc: `boneless chicken bites`,
   },
   {
@@ -116,7 +116,7 @@ const menu = [
     title: "Indian style personal pizza",
     category: "Appetizers",
     price: `$6.99`,
-    img: "./images/item-15.jpg",
+    img: "./images/item-52.jpg",
     desc: `Pizza`,
   },
   {
@@ -124,7 +124,7 @@ const menu = [
     title: "Pani Puri",
     category: "Appetizers",
     price: `$4.99`,
-    img: "./images/item-16.jpg",
+    img: "./images/item-53.jpg",
     desc: `Water balls served with potato and onion filling.`,
   },
   {
@@ -132,7 +132,7 @@ const menu = [
     title: "Bhel Puri",
     category: "Appetizers",
     price: `$4.99`,
-    img: "./images/item-17.jpeg",
+    img: "./images/item-54.jpg",
     desc: `Balls with onions, tomatoes, and sauces.`,
   },
   {
@@ -140,7 +140,7 @@ const menu = [
     title: "Sev Usal",
     category: "Appetizers",
     price: `$8.99`,
-    img: "./images/item-18.jpeg",
+    img: "./images/item-55.jpg",
     desc: `sev usal chaat is made using assortments of chutneys, spices, peas, crunchy bite like sev and onions served with bun bread on side.`,
   },
   {
@@ -148,7 +148,7 @@ const menu = [
     title: "Hot and Sour Soup",
     category: "Appetizers",
     price: `$6.49`,
-    img: "./images/item-19.png",
+    img: "./images/item-56.jpg",
     desc: `Soup.`,
   },
   {
@@ -156,7 +156,7 @@ const menu = [
     title: "Schezwan Puff (Each)",
     category: "Appetizers",
     price: `$5.49`,
-    img: "./images/item-20.png",
+    img: "./images/item-57.jpg",
     desc: `Potato and pea stuffing in a crispy pastry topped with Schezwan sauce.`,
   },
   {
@@ -164,7 +164,7 @@ const menu = [
     title: "Puff",
     category: "Appetizers",
     price: `$4.49`,
-    img: "./images/item-21.png",
+    img: "./images/item-58.jpg",
     desc: `Stuffed pastry with potato and peas and Indian spices.`,
   },
   {
@@ -172,7 +172,7 @@ const menu = [
     title: "Cheesy Jalapeno Bites",
     category: "Appetizers",
     price: `$4.99`,
-    img: "./images/item-22.png",
+    img: "./images/item-60.jpg",
     desc: `Bites`,
   },
   {
@@ -180,7 +180,7 @@ const menu = [
     title: "Shahi Paneer",
     category: "Appetizers",
     price: `$14.99`,
-    img: "./images/item-23.png",
+    img: "./images/item-61.jpg",
     desc: `Paneer cooked with creamy sauce with onion , garlic, ginger and cashews.`,
   },
   {
@@ -188,7 +188,7 @@ const menu = [
     title: "Paneer Tikka Masala",
     category: "Appetizers",
     price: `$14.99`,
-    img: "./images/item-24.png",
+    img: "./images/item-62.jpg",
     desc: `Paneer cooked in a sauce with onion, yogurt, garlic, and ginger.`,
   },
   {
@@ -196,7 +196,7 @@ const menu = [
     title: "Kadai Paneer",
     category: "Appetizers",
     price: `$14.99`,
-    img: "./images/item-25.png",
+    img: "./images/item-63.jpg",
     desc: `Cottage cheese cooked with sauces, bell peppers, and onions with Indian spices.`,
   },
   {
@@ -204,7 +204,7 @@ const menu = [
     title: "Butter Chicken",
     category: "Appetizers",
     price: `$14.99`,
-    img: "./images/item-26.webp",
+    img: "./images/item-64.jpg",
     desc: `Non-Vegetarian. Marinated chicken served with a creamy buttery sauce.`,
   },
   {
